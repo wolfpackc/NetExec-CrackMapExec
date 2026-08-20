@@ -79,6 +79,7 @@ Con autenticación en un laboratorio:
 ```bash
 nxc smb 192.168.56.20 -u labuser -p 'LabPassword123!'
 ```
+<img width="1351" height="679" alt="image" src="https://github.com/user-attachments/assets/c887c523-1c40-4414-9a69-808e01266e68" />
 
 Piensa así:
 
