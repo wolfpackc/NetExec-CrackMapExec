@@ -48,7 +48,8 @@ Servidor
 ├── Public
 └── Backups
 ```
-![Uploading image.png…]()
+<img width="1398" height="507" alt="image" src="https://github.com/user-attachments/assets/f8acab1e-cf25-4971-9f99-720b852c6ed6" />
+
 
 Cada share tiene permisos propios. Poder verlo no implica poder escribir en él.
 
