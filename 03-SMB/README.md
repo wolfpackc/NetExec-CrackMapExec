@@ -3,6 +3,7 @@
 SMB es el protocolo que más debes dominar al empezar con NetExec en redes Windows.
 <img width="5585" height="1667" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/5cec9471-6d77-4746-acd4-32264641862b" />
 
+<img width="1086" height="1448" alt="ChatGPT Image 20 ago 2026, 18_14_12" src="https://github.com/user-attachments/assets/87d6f561-6ada-45a2-b7d6-81f684972b0d" />
 
 ---
 
@@ -164,7 +165,7 @@ Cliente <--------> Servidor
 Con signing requerido
 Cliente =====firma=====> Servidor
 ```
-<img width="1086" height="1448" alt="ChatGPT Image 20 ago 2026, 14_21_26" src="https://github.com/user-attachments/assets/cf3f240b-0b7b-4ad7-8bbe-8b6bcfefdf9b" />
+
 
 
 NetExec puede ayudarte a identificar esta propiedad del host, pero la interpretación requiere entender SMB y NTLM.
