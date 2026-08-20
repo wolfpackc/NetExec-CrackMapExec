@@ -48,6 +48,7 @@ Servidor
 ├── Public
 └── Backups
 ```
+![Uploading image.png…]()
 
 Cada share tiene permisos propios. Poder verlo no implica poder escribir en él.
 
