@@ -1,5 +1,9 @@
 # 04 — WinRM y acceso remoto
 
+---
+
+<img width="1122" height="1402" alt="ChatGPT Image 20 ago 2026, 18_40_59 (1)" src="https://github.com/user-attachments/assets/2dfa2d06-0560-4e5e-a933-d36b6e6f762f" />
+
 ## 1. Qué es WinRM
 <img width="1031" height="101" alt="image" src="https://github.com/user-attachments/assets/37750580-77de-49ef-9d5a-9ffbda4967a9" />
 
