@@ -15,6 +15,7 @@ Ejemplo de laboratorio:
 ```bash
 nxc smb 192.168.56.20
 ```
+<img width="1322" height="103" alt="image" src="https://github.com/user-attachments/assets/a47287ef-4e4d-4e66-bda4-acc47834e029" />
 
 No memorices la línea. Interpreta:
 
