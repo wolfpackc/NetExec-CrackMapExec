@@ -17,6 +17,9 @@ nxc smb 192.168.56.20
 ```
 <img width="1322" height="103" alt="image" src="https://github.com/user-attachments/assets/a47287ef-4e4d-4e66-bda4-acc47834e029" />
 
+---
+
+<img width="1410" height="76" alt="image" src="https://github.com/user-attachments/assets/1dceda9f-ed9d-4bac-8061-1dba58d496cb" />
 No memorices la línea. Interpreta:
 
 ```text
@@ -50,7 +53,7 @@ Servidor
 ```
 <img width="1398" height="507" alt="image" src="https://github.com/user-attachments/assets/f8acab1e-cf25-4971-9f99-720b852c6ed6" />
 
-<img width="1410" height="76" alt="image" src="https://github.com/user-attachments/assets/1dceda9f-ed9d-4bac-8061-1dba58d496cb" />
+
 
 Cada share tiene permisos propios. Poder verlo no implica poder escribir en él.
 
