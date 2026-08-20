@@ -23,6 +23,7 @@ nxc smb 192.168.56.20
 
 <img width="1410" height="76" alt="image" src="https://github.com/user-attachments/assets/1dceda9f-ed9d-4bac-8061-1dba58d496cb" />
 No memorices la línea. Interpreta:
+<img width="1448" height="1086" alt="ChatGPT Image 20 ago 2026, 18_40_53" src="https://github.com/user-attachments/assets/c8b005a6-56df-4343-9926-571e0896d3a3" />
 
 ```text
 ¿Quién responde?
