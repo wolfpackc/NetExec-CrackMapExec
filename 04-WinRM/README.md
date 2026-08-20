@@ -1,6 +1,7 @@
 # 04 — WinRM y acceso remoto
 
 ## 1. Qué es WinRM
+<img width="1031" height="101" alt="image" src="https://github.com/user-attachments/assets/37750580-77de-49ef-9d5a-9ffbda4967a9" />
 
 WinRM es la implementación de Microsoft de WS-Management para administración remota.
 
