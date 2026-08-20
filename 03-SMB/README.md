@@ -1,6 +1,7 @@
 # 03 — SMB a fondo
 
 SMB es el protocolo que más debes dominar al empezar con NetExec en redes Windows.
+<img width="5585" height="1667" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/5cec9471-6d77-4746-acd4-32264641862b" />
 
 ## 1. Qué es SMB
 
