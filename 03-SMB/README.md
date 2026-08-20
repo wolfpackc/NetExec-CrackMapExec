@@ -158,7 +158,8 @@ Cliente <--------> Servidor
 Con signing requerido
 Cliente =====firma=====> Servidor
 ```
-<img width="1055" height="1491" alt="ChatGPT Image 20 ago 2026, 14_17_52" src="https://github.com/user-attachments/assets/02f400ae-aee6-440f-a434-0a07e5a25e5e" />
+<img width="1086" height="1448" alt="ChatGPT Image 20 ago 2026, 14_21_26" src="https://github.com/user-attachments/assets/cf3f240b-0b7b-4ad7-8bbe-8b6bcfefdf9b" />
+
 
 NetExec puede ayudarte a identificar esta propiedad del host, pero la interpretación requiere entender SMB y NTLM.
 
